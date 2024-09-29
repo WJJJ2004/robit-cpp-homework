@@ -1,0 +1,7 @@
+/home/lwj/assignment_1/build/CMakeFiles/assignment_1.dir
+/home/lwj/assignment_1/build/CMakeFiles/edit_cache.dir
+/home/lwj/assignment_1/build/CMakeFiles/rebuild_cache.dir
+/home/lwj/assignment_1/build/CMakeFiles/list_install_components.dir
+/home/lwj/assignment_1/build/CMakeFiles/install.dir
+/home/lwj/assignment_1/build/CMakeFiles/install/local.dir
+/home/lwj/assignment_1/build/CMakeFiles/install/strip.dir

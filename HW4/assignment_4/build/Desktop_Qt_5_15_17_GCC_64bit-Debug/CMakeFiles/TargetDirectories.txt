@@ -1,0 +1,7 @@
+/home/lwj/assignment_4/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/assignment_4.dir
+/home/lwj/assignment_4/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/lwj/assignment_4/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/lwj/assignment_4/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/lwj/assignment_4/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/lwj/assignment_4/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/lwj/assignment_4/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/install/strip.dir
